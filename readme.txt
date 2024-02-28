@@ -1,1 +1,1 @@
-This program creates equally spaced water molecules with a density of 0.4 g/cm³, to modify density by changing the size of the graphene sheet or the number of water molecules. The reservoir is in contact with a nanocone, whose coordinates are given.
+This program creates equally spaced water molecules with a density of 0.4 g/cm³ between two carbon sheets, to modify density by changing the size of the graphene sheet or the number of water molecules. The reservoir is in contact with a nanocone, whose coordinates are given.
